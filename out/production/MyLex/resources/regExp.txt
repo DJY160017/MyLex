@@ -1,0 +1,26 @@
+void;ReservedWords
+class;ReservedWords
+public;ReservedWords
+private;ReservedWords
+protected;ReservedWords
+for;ReservedWords
+if;ReservedWords
+else;ReservedWords
+while;ReservedWords
+do;ReservedWords
+int;ReservedWords
+double;ReservedWords
+char;ReservedWords
+boolean;ReservedWords
+String;ReservedWords
+new;ReservedWords
+try;ReservedWords
+catch;ReservedWords
+static;ReservedWords
+return;ReservedWords
+this;ReservedWords
+main;ReservedWords
+(1|2|3|4|5|6|7|8|9|0)*;Number
+-(1|2|3|4|5|6|7|8|9|0)*;Negative Number
+(1|2|3|4|5|6|7|8|9|0)*.(1|2|3|4|5|6|7|8|9|0)*;Double
+-(1|2|3|4|5|6|7|8|9|0)*.(1|2|3|4|5|6|7|8|9|0)*;Negative Double
